@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { jsx as _jsx } from \"react/jsx-runtime\";\n\n// import React from 'react' \n// next에서는 안써도 됌\nvar Home = function Home() {\n  return /*#__PURE__*/_jsx(\"div\", {\n    children: \"Hello, Next!\"\n  });\n};\n\nexport default Home;","map":null,"metadata":{},"sourceType":"module"}
